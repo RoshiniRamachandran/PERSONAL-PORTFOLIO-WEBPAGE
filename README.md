@@ -23,3 +23,5 @@ In the future this portfolio can be enhanced by adding JavaScript to introduce a
 Overall this project demonstrates fundamental frontend development skills including semantic HTML responsive CSS and clean UI design. It serves as a strong foundation for beginners and can be expanded into a more advanced portfolio as skills grow. This project also helps in understanding real world development practices such as code organization reusable styling and maintaining consistency across pages. By working on this portfolio beginners gain confidence in building complete web pages from scratch and learn how to present their work professionally which is an essential skill in the software development industry. It also improves problem solving creativity and attention to design details and usability.
 
 *OUTPUT*
+![image alt](https://github.com/RoshiniRamachandran/PERSONAL-PORTFOLIO-WEBPAGE/blob/972d5fc7b8ca5524e84df3959e5921e3bc77ee20/Screenshot%20(6).png)
+![image alt](
