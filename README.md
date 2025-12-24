@@ -24,4 +24,5 @@ Overall this project demonstrates fundamental frontend development skills includ
 
 *OUTPUT*
 ![image alt](https://github.com/RoshiniRamachandran/PERSONAL-PORTFOLIO-WEBPAGE/blob/972d5fc7b8ca5524e84df3959e5921e3bc77ee20/Screenshot%20(6).png)
+![image alt](https://github.com/RoshiniRamachandran/PERSONAL-PORTFOLIO-WEBPAGE/blob/01f9cbaa0521e6d3f57ed8f585258b00deb44b25/Screenshot%20(7).png)
 ![image alt](
